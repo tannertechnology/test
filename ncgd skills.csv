@@ -1,8 +1,8 @@
 ,Strength,Agility,Endurance,Speed,Intelligence,Willpower,Personality,Luck,,Sum
 Long Blade,4,2,,1,,,,1,,8
 Blunt Weapon,4,2,,1,,,,1,,8
-Axe,4,2,,1,,,,1,,8,
-Armorer,1,,4,,,,2,1,,8,,Luck,1,
+Axe,4,2,,1,,,,1,,8
+Armorer,1,,4,,,,2,1,,8,
 Medium Armor,,,4,2,,1,,1,,8,,,,
 Heavy Armor,,,4,2,,1,,1,,8,,,,
 Spear,4,2,,1,,,,1,,8,,,,
